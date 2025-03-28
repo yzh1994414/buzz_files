@@ -1,6 +1,9 @@
-Privacy Policy for SignUpNinja
+# Privacy Policy for SignUpNinja
+
 Last updated: 2025-03-28
+
 SignUpNinja ("we") respects your privacy. This policy explains how we handle data.
+
 1. Data Collected
 Discord Server/Channel IDs: To manage event channels.
 User IDs: To track registrations and permissions.
@@ -22,4 +25,5 @@ Request access to, correction of, or deletion of your data.
 Opt out of non-essential communications.
 6. Security
 Data is stored securely and encrypted in transit.
+
 Contact: https://discord.gg/KvhwUJqWEy
