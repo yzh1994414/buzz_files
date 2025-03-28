@@ -1,4 +1,4 @@
-#Terms of Service for SignUpNinja
+# Terms of Service for SignUpNinja
 
 Last updated: 2025-03-28
 
