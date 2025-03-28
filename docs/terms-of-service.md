@@ -1,5 +1,7 @@
-Terms of Service for SignUpNinja
+#Terms of Service for SignUpNinja
+
 Last updated: 2025-03-28
+
 By using SignUpNinja ("the Bot"), you agree to these terms. If you do not agree, do not use the Bot.
 1. Use License
 The Bot is provided for free use in Discord servers for event registration purposes only.
